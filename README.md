@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**About Me:**
+
+I'm a Colgate University graduate who majored in Computer Science with minors in Economics and Geology. I have a strong passion for software engineering and the convergence of technology with the financial services, banking, and private equity industries. The intersection of [earth sciences and numerical modeling](https://www.colgate.edu/news/stories/beneath-crust-taking-ct-scans-alaska) also piques my curiosity.
+
+**Tech Stack:**
+- Langages: Java, Python, Ruby on Rails, SQL
+- Data Processing: Fortran, R Studio, MATLAB
+- Systems: Command Line, Version Control, Shell Scripting
+
 <!--
 **shaneknopp/shaneknopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
